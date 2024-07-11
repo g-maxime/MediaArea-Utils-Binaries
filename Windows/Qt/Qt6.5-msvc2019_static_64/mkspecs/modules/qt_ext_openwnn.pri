@@ -1,0 +1,3 @@
+QMAKE_INCDIR_OPENWNN = C:/Users/User/Downloads/qt-everywhere-src-6.5.3/qtvirtualkeyboard/src/plugins/openwnn/3rdparty/openwnn/wnnEngine/include C:/Users/User/Downloads/6.5.3-build/qtbase/src/corelib C:/Users/User/Downloads/6.5.3-build/qtbase/include/QtCore/6.5.3 C:/Users/User/Downloads/6.5.3-build/qtbase/include/QtCore/6.5.3/QtCore C:/Users/User/Downloads/6.5.3-build/qtbase/include C:/Users/User/Downloads/6.5.3-build/qtbase/include/QtCore C:/Users/User/Downloads/qt-everywhere-src-6.5.3/qtbase/mkspecs/win32-msvc C:/Users/User/Downloads/6.5.3-build/qtbase/include
+QMAKE_DEFINES_OPENWNN = HAVE_OPENWNN QT_CORE_LIB WIN32 _ENABLE_EXTENDED_ALIGNED_STORAGE WIN64 _WIN64 UNICODE _UNICODE
+QMAKE_LIBS_OPENWNN = $$[QT_INSTALL_LIBS/get]/Qt6BundledOpenwnn.lib
